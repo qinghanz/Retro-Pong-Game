@@ -1,4 +1,4 @@
 # Retro-Pong-Game
 
 ## Description
-Simple Pong Game that follows real physics with UI components (Scoreboard, Tracer, etc...)
+Simple Pong Game that mimics real physics with UI components (Scoreboard, Tracer, etc...)
